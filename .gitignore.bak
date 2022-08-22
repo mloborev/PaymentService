@@ -4,12 +4,9 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
-*.suo
-*.user
-_ReSharper.*
-bin
-obj
-packages
+**/bin
+**/obj
+**/.vs
 
 
 # User-specific files
